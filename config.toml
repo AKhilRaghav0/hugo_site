@@ -1,0 +1,4 @@
+baseURL = 'https://akhilraghav.us'
+languageCode = 'en-us'
+title = 'Basic Test Site'
+theme = 'PaperMod'
